@@ -16,3 +16,21 @@ In this project, I’ll apply the skills I learned in Introduction to Python and
    8. Marking non-feature films
    9. Plotting with color!
    10. What next?
+
+# Netflix Data
+The dataset includes the following columns:
+
+| Column         | Description                        |
+| -------------- | ---------------------------------- |
+| show_id        | The ID of the show                  |
+| type           | Type of show                       |
+| title          | Title of the show                   |
+| director       | Director of the show                |
+| cast           | Cast of the show                    |
+| country        | Country of origin                   |
+| date_added     | Date added to Netflix               |
+| release_year   | Year of Netflix release             |
+| duration       | Duration of the show in minutes     |
+| description    | Description of the show             |
+| genre          | Show genre                          |
+
